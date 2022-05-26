@@ -8,6 +8,7 @@ public class Git01
 		int x=10;
 		int y=20;
 		int z=x+y ;
+		int p=30;
 		
 		System.out.println("Addition "+z );
 		
@@ -21,8 +22,6 @@ public class Git01
 	{
 	Git01 g=new Git01();
 	g.add();
-		
-		
 		
 	}
 	
