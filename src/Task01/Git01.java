@@ -15,7 +15,11 @@ public class Git01
 	}
 	
 	
-	
+	public void sub()
+	{
+		
+		System.out.println("Substarction");
+	}
 	
 	
 	public static void main(String[] args) 
