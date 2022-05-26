@@ -21,7 +21,11 @@ public class Git01
 		System.out.println("Substarction");
 	}
 	
-	
+	public void mul()
+	{
+		
+		
+	}
 	public static void main(String[] args) 
 	{
 	Git01 g=new Git01();
